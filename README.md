@@ -85,7 +85,7 @@ To get this project up and running on your local machine, follow these steps.
 ## My AI Usage
 
 ### Tools Used
-* **Gemini**: I worked with Gemini as a pair-programming assistant throughout the entire development process.
+* **Gemini**: I worked with Gemini as a pair-programming assistant throughout the development process.
 
 ### How I Used It
 I integrated Gemini as a pair-programming assistant to accelerate development and improve code quality. My usage focused on the following areas:
@@ -98,5 +98,3 @@ I integrated Gemini as a pair-programming assistant to accelerate development an
 
 * **Brainstorming & API Design**: During the initial planning phase, I used Gemini to brainstorm and validate the structure of the RESTful API endpoints and the database models, ensuring a logical and scalable design.
 
-### Reflection
-Working with Gemini was like having an expert guide available 24/7. It significantly accelerated the development process by handling boilerplate code and providing immediate solutions to common problems. This allowed me to focus on understanding the core concepts and the flow of the application rather than getting stuck on syntax or setup issues.
