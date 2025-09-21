@@ -13,7 +13,6 @@ A full-stack web application for managing the inventory and sales of a sweet sho
 
 
 
-*Caption: The admin dashboard for managing inventory.*
 
 ---
 ## Features
